@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app mobile</string>
+    <string name="arrow_icon">arrow</string>
+    <string name="divider_icon">divider</string>
+    <string name="ordering_certificates">Заказ справок</string>
+    <string name="ordering_certificates1"></string>
+    <string name="ordering_certificates2">Заказ необходимых документов по месту востребования</string>
+</resources>
